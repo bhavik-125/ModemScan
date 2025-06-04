@@ -66,7 +66,7 @@ The following are tracked and logged during emulation:
 - Block transitions (ARM ↔ THUMB) (`hook_block`)
 - Invalid memory reads/writes (`hook_mem_invalid`)
 - Invalid instructions (`hook_invalid_insn`)
-- 
+
 ---
 
 
